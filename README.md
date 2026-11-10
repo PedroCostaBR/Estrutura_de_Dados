@@ -47,3 +47,6 @@ no desalocador para percorrer os nós e chamar `free()` em cada tarefa e
 participante. Esse processo tem complexidade O(n + m) e evita vazamento de
 memória (memory leak). Os dados permanecem em memória apenas durante a execução
 do programa.
+
+
+..
