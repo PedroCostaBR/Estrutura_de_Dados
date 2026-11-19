@@ -5,8 +5,7 @@ Repositório do projeto da disciplina de Estruturas de Dados.
 
 O programa em C cadastra participantes e distribui tarefas em sequência por meio
 de uma lista circular simplesmente encadeada. Considerando o grupo formado por
-Kauan, Henri, João Vitor, Rone, Pedro Henrique, Isaac Alves e Victor, as tarefas
-são atribuídas nessa ordem; após Victor, o percorrimento volta a Kauan.
+Kauan Vinicius Mendonça Silva, Henri José Sobral de Alcântara Mendonça, João Vitor Pereira, Rone Marques S. de Jesus, Pedro Henrique Oliveira Costa, Isaac Alves de Barros, Victor Menezes Santos e Gilberto Oliveira de Emilia Correa, as tarefas são atribuídas nessa ordem; após Gilberto, o percorrimento volta a Kauan.
 
 Compile com GCC a partir da pasta do projeto e execute no PowerShell.
 
