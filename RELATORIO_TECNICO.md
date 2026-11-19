@@ -6,7 +6,7 @@
 |---|---|
 | Disciplina | Estruturas de Dados |
 | Grupo | XMens |
-| Integrantes | Kauan, Henri, João Vitor, Rone, Pedro Henrique, Isaac Alves e Victor |
+| Integrantes | Rone Marques S. de Jesus, Pedro Henrique Oliveira Costa, Henri José Sobral de Alcântara Mendonça, Gilberto Oliveira de Emilia Correa, Kauan Vinicius Mendonça Silva, Victor Menezes Santos, João Vitor Pereira e Isaac Alves de Barros |
 | Linguagem | C (padrão C11) |
 | Estruturas de dados | Lista circular de participantes e listas encadeadas de tarefas |
 | Data de apresentação | 19/11/2026 |
